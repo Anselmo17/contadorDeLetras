@@ -1,0 +1,1 @@
+# Este projeto tem o intuito de mostrar como contar letras em uma lista
